@@ -6,6 +6,8 @@ public class Drone extends HoneyBee{
         return "I'm a drone, I'm going to date our Queen!";
      }
  
-
+     public String fly() {
+        return "I can fly against walls!";
+     }
     
 }
